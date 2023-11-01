@@ -1,0 +1,113 @@
+body {
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    
+    
+}
+
+h1 {
+    font-family: 'Kavoon', cursive;
+    font-size: 70px;
+    color: #261C2C;
+    margin-top: 70px;
+}
+
+h2 {
+    color:#261C2C ;
+    margin-top: 50px;
+}
+
+hr {
+    border: dotted black 6px;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+.about-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.top-container {
+    background-color: white;
+    position: relative;
+    padding-top: 70px;
+    margin-bottom: 0;
+
+}
+.main-img {
+    max-width: 350px;
+    
+}
+
+.skill-row {
+    padding-top: 10px;
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.me {
+    max-height: 20%;
+}
+.middle-container {
+   background-color: ;
+}
+
+.bottom-container {
+  background-color: whitesmoke;
+  padding-bottom: 30px;
+}
+
+.bottom-cloud {
+    max-width: 350px;
+    position: absolute;
+    top: 20%;
+    left: 18%;
+}
+
+
+.top-cloud {
+    max-width: 300px;
+    position: absolute;
+    right: 20%;
+    top: 1%;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skills-img {
+    max-height: 300px;
+}
+
+.sports-img {
+    max-height: 300px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #3d323d;
+    font-family: 'Oswald', sans-serif;
+    color: #f2e6f2;
+    font-size: 24px;
+    background: #0d0d0d;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #c4cbcf;
+    text-decoration: none;
+  }
+
